@@ -16,9 +16,9 @@ cd react-getting-started
 
 This sets up a React project with TypeScript.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341661890/7e3c107c-4e1f-4106-bc5e-de2bf99d3413.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341661890/7e3c107c-4e1f-4106-bc5e-de2bf99d3413.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341735824/0488b2fc-e12e-4f6e-9ac7-52444fed153c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341735824/0488b2fc-e12e-4f6e-9ac7-52444fed153c.png)
 
 ### 3\. **Start the Development Server**
 
@@ -30,9 +30,9 @@ npm start
 
 This will open the app in your browser at `http://localhost:3000`.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341980829/41486143-3fd7-4d62-b537-f232c3294e83.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341980829/41486143-3fd7-4d62-b537-f232c3294e83.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728342007412/34184cb7-ac39-4f34-8af2-2a8524349cd0.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728342007412/34184cb7-ac39-4f34-8af2-2a8524349cd0.png)
 
 ### 4\. **Project Structure with TypeScript**
 
@@ -61,7 +61,7 @@ react-getting-started
 * `src/App.tsx`: Your main React component in TypeScript.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341858239/1af79541-b6bf-4065-96b5-7ffe61c0206c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728341858239/1af79541-b6bf-4065-96b5-7ffe61c0206c.png)
 
 ### 5\. **Basic Example with TypeScript**
 
@@ -118,4 +118,4 @@ When using TypeScript with React, you'll often work with interfaces or types to 
 * **State**: Define the internal state of a component.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728343532790/580508ec-bf4e-4c61-a0f1-a00e25a888cc.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1728343532790/580508ec-bf4e-4c61-a0f1-a00e25a888cc.png)
